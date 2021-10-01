@@ -1,2 +1,2 @@
 # node-food
-Config files for my GitHub profile.
+Built using modern technologies : Node.js, Express, MongoDB
